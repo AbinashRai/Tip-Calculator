@@ -17,7 +17,7 @@ These are all the DIV ID's you're gonna need access to 👇
 #4 ID 👉 'perPersonTotal' = Total dollar value owed per person
 */
 
-// Get global access to all inputs / divs here (you'll need them later 😘)
+// Get global access to all inputs / divs here (you'll need them later)
 // bill input, tip input, number of people div, and per person total div
 
 const billInput = document.getElementById('billTotalInput')
